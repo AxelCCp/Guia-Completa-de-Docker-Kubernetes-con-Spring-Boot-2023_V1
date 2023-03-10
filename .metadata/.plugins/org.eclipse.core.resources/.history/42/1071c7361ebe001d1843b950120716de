@@ -1,0 +1,5 @@
+spring.application.name=cursos
+server.port=8002
+
+#MICROSERVICIO Y BBDD EN LOCAL
+spring.datasource.url=jdbc:postgresql://localhost:5432/db-ms-docker-kube

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="ms.usuarios.server.models.dao.IUsuarioDao"/>
+    <fullyQualifiedTypeName name="ms.usuarios.server.models.entity.Usuario"/>
+    <fullyQualifiedTypeName name="ms.usuarios.server.models.service.IUsuarioService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
+    <fullyQualifiedTypeName name="ms.cursos.server.models.dao.ICursoDao"/>
+    <fullyQualifiedTypeName name="ms.cursos.server.models.services.ICursoService"/>
+    <fullyQualifiedTypeName name="ms.cursos.server.models.entity.Curso"/>
+    <fullyQualifiedTypeName name="ms.cursos.server.models.entity.CursoUsuario"/>
+    <fullyQualifiedTypeName name="ms.cursos.server.feignclients.IUsuarioClientFeign"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="ms.cursos.server.models.pojo.Usuario"/>
+    <fullyQualifiedTypeName name="feign.FeignException"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Modifying"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="ms.usuarios.server.feignclients.ICursoFeignClient"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.openfeign.EnableFeignClients"/>
+</qualifiedTypeNameHistroy>
